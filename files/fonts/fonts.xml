@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="FontAwesome" className="" url="./files/fonts/font-0-0-2018517002012358.swf" ttfurl="./files/fonts/font-0-0-2018517002012358.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMES" url="./files/fonts/font-1-0-2018517002012391.swf" ttfurl="./files/fonts/font-1-0-2018517002012391.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBD" url="./files/fonts/font-1-1-2018517002012422.swf" ttfurl="./files/fonts/font-1-1-2018517002012422.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBI" url="./files/fonts/font-1-2-2018517002012479.swf" ttfurl="./files/fonts/font-1-2-2018517002012479.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESI" url="./files/fonts/font-1-3-2018517002012538.swf" ttfurl="./files/fonts/font-1-3-2018517002012538.ttf"/>
+    <font name="LiSu" className="FskyFont_SIMLI" url="./files/fonts/font-2-0-2018517002012596.swf" ttfurl="./files/fonts/font-2-0-2018517002012596.ttf"/>
+    <font name="FZYaoTi" className="FskyFont_FZYTK" url="./files/fonts/font-3-0-2018517002016637.swf" ttfurl="./files/fonts/font-3-0-2018517002016637.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-4-0-2018517002019778.swf" ttfurl="./files/fonts/font-4-0-2018517002019778.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-4-1-2018517002022252.swf" ttfurl="./files/fonts/font-4-1-2018517002022252.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-4-2-2018517002024719.swf" ttfurl="./files/fonts/font-4-2-2018517002024719.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-4-3-201851700202795.swf" ttfurl="./files/fonts/font-4-3-201851700202795.ttf"/>
+    <font name="Adobe Heiti Std R" className="FskyFont_AdobeHeitiStd_Regular" url="./files/fonts/font-5-0-2018517002029808.swf" ttfurl="./files/fonts/font-5-0-2018517002029808.ttf"/>
+    <font name="Webding" className="" url="./files/fonts/font-6-0-2018517002032915.swf" ttfurl="./files/fonts/font-6-0-2018517002032915.ttf"/>
+    <font name="Bookman Old Style" className="FskyFont_BOOKOS" url="./files/fonts/font-7-0-2018517002032943.swf" ttfurl="./files/fonts/font-7-0-2018517002032943.ttf"/>
+    <font name="Bookman Old Style" className="FskyFont_BOOKOSB" url="./files/fonts/font-7-1-2018517002032969.swf" ttfurl="./files/fonts/font-7-1-2018517002032969.ttf"/>
+    <font name="Bookman Old Style" className="FskyFont_BOOKOSBI" url="./files/fonts/font-7-2-2018517002032994.swf" ttfurl="./files/fonts/font-7-2-2018517002032994.ttf"/>
+    <font name="Bookman Old Style" className="FskyFont_BOOKOSI" url="./files/fonts/font-7-3-201851700203322.swf" ttfurl="./files/fonts/font-7-3-201851700203322.ttf"/>
+  </fonts>
+</data>
